@@ -5,5 +5,5 @@ The bank management system is a program that keeps track of a person’s bank ac
 
 
 
-#__screenshots__
+# __screenshots__
 (this is an image of output)[‪D:\BMS\bmkimg.jpeg]
