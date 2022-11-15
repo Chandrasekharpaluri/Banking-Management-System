@@ -5,13 +5,13 @@ The bank management system is a program that keeps track of a person’s bank ac
 
 
 ▶️ In this project, we can do basic Student Record Management tasks like :
--open an account
--balancy enquiry
--deposit
--withdrawl
--close an account
--show all accounts
--quit
+ - open an account
+ - balancy enquiry
+ - deposit
+ - withdrawl
+ - close an account
+ - show all accounts
+ - quit
 
 
 
